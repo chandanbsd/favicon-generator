@@ -1,0 +1,6 @@
+@FaviconGenerator.Data_HostAddress = http://localhost:5196
+
+GET {{FaviconGenerator.Data_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

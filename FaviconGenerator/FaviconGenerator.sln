@@ -1,0 +1,48 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.0.0
+MinimumVisualStudioVersion = 17.8.0.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FaviconGenerator.AppHost", "FaviconGenerator.AppHost\FaviconGenerator.AppHost.csproj", "{A3D0EE9D-345F-4DDF-817F-0FB5B57FC4C8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FaviconGenerator.ServiceDefaults", "FaviconGenerator.ServiceDefaults\FaviconGenerator.ServiceDefaults.csproj", "{E2E074E0-291B-4B47-BA27-636721FC639E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaviconGenerator.Api", "FaviconGenerator.Api\FaviconGenerator.Api.csproj", "{579BE86A-1F3C-4F30-87B6-22C8E595FB79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaviconGenerator.Data", "FaviconGenerator.Data\FaviconGenerator.Data.csproj", "{E6D6910A-EFF7-412F-85AB-C31175A4784A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaviconGenerator.Business", "FaviconGenerator.Business\FaviconGenerator.Business.csproj", "{8EF91A43-43BB-4B06-96CD-A6A50F971783}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3D0EE9D-345F-4DDF-817F-0FB5B57FC4C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D0EE9D-345F-4DDF-817F-0FB5B57FC4C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D0EE9D-345F-4DDF-817F-0FB5B57FC4C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D0EE9D-345F-4DDF-817F-0FB5B57FC4C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2E074E0-291B-4B47-BA27-636721FC639E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2E074E0-291B-4B47-BA27-636721FC639E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2E074E0-291B-4B47-BA27-636721FC639E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E074E0-291B-4B47-BA27-636721FC639E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{579BE86A-1F3C-4F30-87B6-22C8E595FB79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579BE86A-1F3C-4F30-87B6-22C8E595FB79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579BE86A-1F3C-4F30-87B6-22C8E595FB79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579BE86A-1F3C-4F30-87B6-22C8E595FB79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6D6910A-EFF7-412F-85AB-C31175A4784A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D6910A-EFF7-412F-85AB-C31175A4784A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D6910A-EFF7-412F-85AB-C31175A4784A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D6910A-EFF7-412F-85AB-C31175A4784A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EF91A43-43BB-4B06-96CD-A6A50F971783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF91A43-43BB-4B06-96CD-A6A50F971783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF91A43-43BB-4B06-96CD-A6A50F971783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF91A43-43BB-4B06-96CD-A6A50F971783}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {499A5789-2F03-43F7-B49D-772E157CA4C8}
+	EndGlobalSection
+EndGlobal
